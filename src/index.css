@@ -573,7 +573,7 @@ body {
 
   touch-action: manipulation;
 
-  background: url("src/assets/en.webp") center/cover no-repeat;
+  background: url("/assets/en.webp") center / cover no-repeat;
 }
 
 .envelope:hover {

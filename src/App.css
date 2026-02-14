@@ -25,13 +25,19 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   font-family: "Playfair Display", serif;
-  background: linear-gradient(135deg, rgba(255, 105, 180, 0.144), rgba(186, 85, 211, 0.45)),
-              url("src/assets/c.png");
+  background: 
+    linear-gradient(
+      135deg,
+      rgba(255, 105, 180, 0.144),
+      rgba(186, 85, 211, 0.45)
+    ),
+    url("./assets/c.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   line-height: 1.5;
 }
+
 
 /* ===== FLOATING HEARTS ===== */
 .hearts span {
