@@ -25,74 +25,74 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "assets/d.webp",
-    "musicBearGif": "assets/music-bear.gif",
-    "comfortBearGif": "assets/comfort-bear.gif",
-    "kissBearGif": "assets/kiss-bears.gif",
-    "photoBearGif": "assets/photo-bear.gif",
-    "loveYouBearGif": "assets/b.gif",
-    "childGif": "assets/child.gif",
-    "roseBearGif": "assets/rose-bear.gif",
-    "cookBearGif": "assets/cook-bear.gif",
-    "kissSingleBearGif": "assets/kiss-bear.gif",
-    "leftButton": "assets/left-button.png",
-    "rightButton": "assets/right-button.png",
+    "mainBearGif": "/assets/d.webp",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/b.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "assets/gift/gii.png",
-    "gift2": "assets/gift/gii.png",
-    "gift3": "assets/gift/gii.png"
+    "gift1": "/assets/gift/gii.png",
+    "gift2": "/assets/gift/gii.png",
+    "gift3": "/assets/gift/gii.png"
   },
   "couplePhotos": [
     {
-      "image": "assets/d.webp",
+      "image": "/assets/d.webp",
       "caption": "Our first special moment together"
     },
     {
-      "image": "assets/couple_photo/couple_photo_2.jpg",
+      "image": "/assets/couple_photo/couple_photo_2.jpg",
       "caption": "Cooking memories together"
     },
     {
-      "image": "assets/couple_photo/couple_photo_3.jpg",
+      "image": "/assets/couple_photo/couple_photo_3.jpg",
       "caption": "Our favorite music moments"
     },
     {
-      "image": "assets/couple_photo/couple_photo_4.jpg",
+      "image": "/assets/couple_photo/couple_photo_4.jpg",
       "caption": "When you made me smile like this"
     },
     {
-      "image": "assets/couple_photo/couple_photo_5.jpg",
+      "image": "/assets/couple_photo/couple_photo_5.jpg",
       "caption": "Our heart-to-heart talks"
     },
     {
-      "image": "assets/couple_photo/couple_photo_6.jpg",
+      "image": "/assets/couple_photo/couple_photo_6.jpg",
       "caption": "Your comforting presence"
     }
   ],
   "prosCons": [
     {
-      "gif": "assets/cook-bear.gif",
+      "gif": "/assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "assets/comfort-bear.gif",
+      "gif": "/assets/comfort-bear.gif",
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "assets/cute-bear.gif",
+      "gif": "/assets/cute-bear.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "assets/kiss-bears.gif",
+      "gif": "/assets/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "assets/photo-bear.gif",
+      "gif": "/assets/photo-bear.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "assets/music-bear.gif",
+      "gif": "/assets/music-bear.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -103,8 +103,8 @@
       "duration": "3:37",
       "album": "Ghajini",
       "artist": "",
-      "cover": "assets/album-covers/ghajini.jpg",
-      "audio": "assets/songs/Oru-Maalai.mp3"
+      "cover": "/assets/album-covers/ghajini.jpg",
+      "audio": "/assets/songs/Oru-Maalai.mp3"
     },
     {
       "id": 2,
@@ -112,8 +112,8 @@
       "duration": "4:59",
       "album": "Cuckoo",
       "artist": "",
-      "cover": "assets/album-covers/cuckoo.jpg",
-      "audio": "assets/songs/agasatha.mp3"
+      "cover": "/assets/album-covers/cuckoo.jpg",
+      "audio": "/assets/songs/agasatha.mp3"
     },
     {
       "id": 3,
@@ -121,8 +121,8 @@
       "duration": "04:51",
       "album": "Katradhu Tamizh",
       "artist": "",
-      "cover": "assets/album-covers/katradhu-tamizh.jpg",
-      "audio": "assets/songs/unakagathanae.mp3"
+      "cover": "/assets/album-covers/katradhu-tamizh.jpg",
+      "audio": "/assets/songs/unakagathanae.mp3"
     },
     {
       "id": 4,
@@ -130,8 +130,8 @@
       "duration": "3:45",
       "album": "Lubber Panthu",
       "artist": "",
-      "cover": "assets/album-covers/aasa_orave.jpg",
-      "audio": "assets/songs/Aasa-Orave.mp3"
+      "cover": "/assets/album-covers/aasa_orave.jpg",
+      "audio": "/assets/songs/Aasa-Orave.mp3"
     },
     {
       "id": 5,
@@ -139,8 +139,30 @@
       "duration": "4:08",
       "album": "Mundasupatti",
       "artist": "",
-      "cover": "assets/album-covers/mundasupatti.jpg",
-      "audio": "assets/songs/kadhal-kanave.mp3"
+      "cover": "/assets/album-covers/mundasupatti.jpg",
+      "audio": "/assets/songs/kadhal-kanave.mp3"
     }
-  ]
+  ],
+  "letter": {
+    "title": "My Dearest Patootie,",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nRam"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
 }
