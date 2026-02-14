@@ -25,50 +25,50 @@
     "prosConsSubtitle": "Just kidding... there are no cons! 😄"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "/assets/cute-bear.gif",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/love-you-bear.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
     "envelopeSeal": "💌"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.png",
-    "gift2": "/src/assets/gift/gift2.png", 
-    "gift3": "/src/assets/gift/gift3.png"
+    "gift1": "/assets/gift/gift1.png",
+    "gift2": "/assets/gift/gift2.png",
+    "gift3": "/assets/gift/gift3.png"
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "image": "/assets/couple_photo/couple_photo_1.jpg",
       "caption": "Our first adventure together"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "image": "/assets/couple_photo/couple_photo_2.jpg",
       "caption": "That time we cooked together (and didn't burn the house down!)"
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "image": "/assets/couple_photo/couple_photo_3.jpg",
       "caption": "Our favorite music moments"
     }
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "/assets/cook-bear.gif",
       "text": "I'll cook your favorite meals... sometimes without setting off the smoke alarm! 🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/assets/comfort-bear.gif",
       "text": "Unlimited cuddles and emotional support"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "/assets/cute-bear.gif",
       "text": "I listen... really, I do! (Most of the time) 🙈"
     }
   ],
@@ -79,8 +79,8 @@
       "duration": "4:23",
       "album": "÷ (Divide)",
       "artist": "Ed Sheeran",
-      "cover": "/src/assets/ghajini.jpg",
-      "audio": "/src/assets/Oru-Maalai.mp3"
+      "cover": "/assets/album-covers/ghajini.jpg",
+      "audio": "/assets/songs/Oru-Maalai.mp3"
     }
   ],
   "letter": {

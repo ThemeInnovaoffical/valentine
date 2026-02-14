@@ -1,5 +1,5 @@
 // Simple test to verify config loading
-import { config } from "./src/config.js";
+import { config } from "./config.js";
 
 console.log("=== CONFIGURATION TEST ===");
 console.log("Sender:", config.names.sender);
